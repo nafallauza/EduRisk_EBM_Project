@@ -1,0 +1,13 @@
+HASIL EVALUASI MODEL EBM
+========================
+Target: Lulus vs Keluar
+Accuracy: 0.9091
+
+              precision    recall  f1-score   support
+
+      Keluar       0.94      0.82      0.88       284
+       Lulus       0.89      0.96      0.93       442
+
+    accuracy                           0.91       726
+   macro avg       0.92      0.89      0.90       726
+weighted avg       0.91      0.91      0.91       726

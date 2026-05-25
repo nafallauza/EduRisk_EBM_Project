@@ -1,0 +1,47 @@
+Feature,Importance
+Curricular units 2nd sem (approved),2.0765093086969957
+Curricular units 1st sem (approved),0.8390613273522026
+Curricular units 2nd sem (enrolled),0.5433810747646036
+Tuition fees up to date,0.5381186056517575
+Course,0.4262553746475433
+Curricular units 1st sem (enrolled),0.40730806805825565
+Curricular units 2nd sem (grade),0.35822642280759087
+Admission grade,0.35244212511800227
+Scholarship holder,0.3027374086325235
+Debtor,0.2522769513758692
+Gender,0.20846943545098962
+Age at enrollment,0.19547214876391583
+Course & Curricular units 2nd sem (grade),0.19339356253476736
+Previous qualification (grade),0.1677910165626607
+Application mode,0.1478327323796524
+Curricular units 2nd sem (evaluations),0.1465384721700024
+GDP,0.12442590241566186
+Displaced,0.12139590550990509
+Father's occupation,0.11522556403607076
+Curricular units 1st sem (grade),0.11369541693124328
+Curricular units 2nd sem (credited),0.10524996710061478
+Unemployment rate,0.1008666201317212
+Admission grade & Curricular units 2nd sem (approved),0.08629801024878382
+Admission grade & Curricular units 1st sem (approved),0.07617098432949257
+Mother's occupation,0.06299995002204432
+Mother's occupation & Curricular units 1st sem (grade),0.05838387529004226
+Curricular units 1st sem (without evaluations),0.056469617516081996
+Curricular units 1st sem (evaluations),0.05293949028743964
+Curricular units 1st sem (credited),0.042627126927214674
+Mother's occupation & Scholarship holder,0.03945992926014968
+Admission grade & Curricular units 1st sem (grade),0.03790601600161267
+Admission grade & Curricular units 2nd sem (grade),0.035032099572195705
+Admission grade & Curricular units 1st sem (evaluations),0.03259633493282893
+Mother's occupation & Admission grade,0.0319260604992994
+Father's qualification,0.029707250068241084
+International,0.029462651124097225
+Mother's occupation & Curricular units 2nd sem (grade),0.028710517505142544
+Nacionality,0.028375959360883402
+Daytime/evening attendance,0.02641055828906632
+Mother's qualification,0.025235302902069153
+Inflation rate,0.022075829962559367
+Curricular units 2nd sem (without evaluations),0.017703072164849183
+Marital Status,0.016321747073562834
+Application order,0.016175154736252695
+Previous qualification,0.010227358647941621
+Educational special needs,0.002616625371910748

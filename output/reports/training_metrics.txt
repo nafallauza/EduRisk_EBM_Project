@@ -1,0 +1,10 @@
+HASIL TRAINING MODEL EBM
+========================
+Target        : Lulus vs Keluar
+Model terbaik : ebm_interaction_10
+Parameter     : {'name': 'ebm_interaction_10', 'interactions': 10}
+
+Accuracy      : 0.9091
+Precision     : 0.9110
+Recall        : 0.9091
+F1-score      : 0.9079
