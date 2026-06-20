@@ -1,0 +1,29 @@
+EKSPERIMEN BPE TOKENIZATION / SENTENCEPIECE
+==================================================
+Jumlah token BPE          : 6841
+Vocabulary size           : 200
+Block size                : 16
+Embedding dimension       : 64
+Jumlah head attention     : 4
+Jumlah layer transformer  : 3
+Learning rate             : 0.001
+Training device           : cpu
+
+Step    0 | train loss 5.4692 | val loss 5.4944
+Step  100 | train loss 4.1176 | val loss 4.3020
+Step  200 | train loss 3.3347 | val loss 3.5808
+Step  300 | train loss 2.8856 | val loss 3.3442
+Step  400 | train loss 2.6984 | val loss 3.2141
+Step  500 | train loss 2.4948 | val loss 3.1254
+Step  600 | train loss 2.2468 | val loss 2.9675
+Step  700 | train loss 2.0998 | val loss 2.8602
+Step  800 | train loss 1.9455 | val loss 2.7493
+
+PROMPT:
+risiko akademik mahasiswa
+
+HASIL GENERATE:
+risiko akademik mahasiswa yang mengambatan akademik dapat berenas beberapa semesterikan melengkungan data, atau mosihatorikan meli pering dosenali lebih kuliah tidak akungkinkan mahasiswa. alah sutor pendamping menur mengenali pengelolaan risiko, data, tre komuneks preda diukan sebasarah mahasiswa yang mengambapan disebuaikan dapat digunakan sistem penah membantu membantu membantu ko
+
+ANALISIS SINGKAT:
+BPE Tokenization memecah teks menjadi subword. Pendekatan ini lebih fleksibel daripada word-level karena dapat membentuk kata dari potongan token yang lebih kecil. Vocabulary dapat dikontrol melalui vocab_size, sehingga lebih efisien untuk corpus yang memiliki banyak variasi kata.

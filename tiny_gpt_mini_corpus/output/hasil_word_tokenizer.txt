@@ -1,0 +1,29 @@
+EKSPERIMEN WORD-LEVEL TOKENIZATION
+==================================================
+Jumlah kata corpus        : 2151
+Vocabulary size           : 540
+Block size                : 16
+Embedding dimension       : 64
+Jumlah head attention     : 4
+Jumlah layer transformer  : 3
+Learning rate             : 0.001
+Training device           : cpu
+
+Step    0 | train loss 6.4602 | val loss 6.4037
+Step  100 | train loss 4.6871 | val loss 5.5198
+Step  200 | train loss 3.3158 | val loss 5.3533
+Step  300 | train loss 2.4023 | val loss 5.6404
+Step  400 | train loss 1.7135 | val loss 6.0492
+Step  500 | train loss 1.3270 | val loss 6.4172
+Step  600 | train loss 0.9370 | val loss 6.7741
+Step  700 | train loss 0.6924 | val loss 7.2325
+Step  800 | train loss 0.5137 | val loss 7.5727
+
+PROMPT:
+risiko akademik mahasiswa
+
+HASIL GENERATE:
+risiko akademik mahasiswa teknologi tetapi untuk memastikan bahwa mahasiswa dapat memberikan manfaat bagi mahasiswa tetapi juga memiliki administrasi kendala akademik dan aturan akademik yang berbeda indikator yang dianggap berisiko bukan hanya memberikan gambaran mengenai kondisi akademik mahasiswa mengalami mutu pendidikan pada semester awal dapat menyusun kebijakan pendampingan mahasiswa di kelas dosen wali bukan hanya perkiraan berdasarkan pola perkembangan studi dapat berupa penurunan nilai rendahnya yang merasa malu takut dianggap gagal atau dukungan sosial mahasiswa baru sering muncul dalam masalah pribadi oleh karena itu proses adaptasi kendala pekerjaan oleh karena itu data kehadiran perlu
+
+ANALISIS SINGKAT:
+Word-Level Tokenization menghasilkan token berupa kata utuh. Pendekatan ini membuat hasil teks relatif mudah terbaca karena model tidak perlu menyusun kata dari karakter. Namun, ukuran vocabulary cenderung lebih besar karena setiap kata unik dianggap sebagai token berbeda.
